@@ -1,0 +1,29 @@
+{
+  "name": "react-food-order-app",
+  "version": "1.0.0",
+  "description": "Order food from Miggy",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhuchandra012/react-food-order-app.git"
+  },
+  "author": "Madhuchandra A N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhuchandra012/react-food-order-app/issues"
+  },
+  "homepage": "https://github.com/madhuchandra012/react-food-order-app#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  }
+}
