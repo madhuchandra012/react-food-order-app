@@ -34,4 +34,4 @@
 
 (Normal JS Utility functions)
 - useState() - Create State Variables in react
-- useEffect()
+- useEffect() - use Effect will be called after the component is rendered
